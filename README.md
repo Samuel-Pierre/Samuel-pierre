@@ -1,6 +1,6 @@
 * 👋 Olá, Eu sou o **@Samuel.Pierre!**
  
- * 📘  Estudando **HTML5 ,CSS3 ,JavaScript, Python e C++** 
+ * 📘  Estudando **C#, SQL, Python** 
  * 🎬 🎮 Gosto de Animes,Games & Séries \o/
  * 🏢 Trabalho atualmente de  **Operation System Assistant na G+D Mobile Security**
   
