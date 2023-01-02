@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Olá, Eu sou o @Samuel.Pierre!<br>🤖 Atualmente trabalho como desenvolvedor de sistemas RPA<br>📚 Estou estudando Python - Django - Bot City - Flask - SQL<br>🎬 🎮 Gosto de Animes, Games & Séries \o/<br><br><br><br>
+👋 Olá, Eu sou o @Samuel.Pierre!<br><br>
+🤖 Atualmente trabalho como desenvolvedor de sistemas RPA<br><br>
+📚 Estou estudando Python - Django - Bot City - Flask - SQL<br><br>
+🎬 🎮 Gosto de Animes, Games & Séries \o/<br><br><br><br>
 
 
 ## 🌐 Socials:
