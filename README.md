@@ -1,24 +1,21 @@
-* 👋 Olá, Eu sou o **@Samuel.Pierre!**
- 
- * 📘  Estudando **C#, SQL, Python** 
- * 🎬 🎮 Gosto de Animes,Games & Séries \o/
- * 🏢 Trabalho atualmente de  **Operation System Assistant na G+D Mobile Security**
-  
+# 💫 About Me:
+👋 Olá, Eu sou o @Samuel.Pierre!<br>🤖 Atualmente trabalho como desenvolvedor de sistemas RPA<br>📚 Estou estudando Python - Django - Bot City - Flask - SQL<br>🎬 🎮 Gosto de Animes, Games & Séries \o/<br><br><br><br>
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ ﻿ Y0ung1#7086) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pierresam14/) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Samuel-pierre&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Samuel-pierre&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-pierre&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=Samuel-pierre&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href="https://github.com/Samuel-Pierre">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Pierre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Pierre&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- <div><br>
-  <h1> Minhas Habilidades </h1>
-   <img align="center" alt=narutoandando" heght="100" width="100" src="https://66.media.tumblr.com/dcac66d94aa91c9706a3166c7944dcd5/tumblr_mm31jswkAI1rfjowdo1_640.gif">
-  <img align="center" alt="-Yooung1HtMl5" height="50" width="50" src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png">
-   <img align="center" alt="Yooung1-CSS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png">
-    <img align="center" alt="Yooung1Python height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png">
-</div>
-
- <div>
-  
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
